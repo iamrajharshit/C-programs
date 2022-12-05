@@ -471,11 +471,32 @@ delete
 */
 
 //malloc
-/*
-when we use int a; //it goes on the stack
-while when we use 
+
+#include<stdio.h>
+#include<stdlib.h>
+int main(){
+//when we use 
+int a; //it goes on the stack
+//while when we use 
 int *p;
-p=(int*)malloc(sizeof(int));
-//in heap 4 bytes of the memory is reserved when we say malloc
-and pass as argument (sizeof(int))
+p=(int*)malloc(sizeof(int));//malloc helps in getting desired memory in HEAP
+/*in heap 4 bytes of the memory is reserved when we say malloc and pass as argument (sizeof(int))
+//malloc will return a pointer to the starting address of this block
+and malloc return a void pointer* (here we have done type casting as p stores int pointer)
+now P points to 200(memory location in HEAP) 
+to access the part. block by keeping a pointer variable which will be local to function.
+to fill in something in the mem.loc 200 we need to dereference this location using the pointer P and then put in some value.
 */
+*p=10;
+free(p); //to free the memory
+p=(int*)malloc(sizeof(int));
+*p=20; //reasigning
+p=(int*)malloc(20*sizeof(int)); //20 blocks of 4byte
+// p[0],p[1],p[2],p[3]
+// *p *(p+1) and so
+}
+
+
+
+
+
