@@ -1,0 +1,5 @@
+# ninja log v5
+1	169	6924551027154513	CMakeFiles/stack_with_array.dir/main.c.obj	fc37c9701c468850
+170	380	6924551029224506	stack_with_array.exe	3b71feb0b7eb2248
+4	142	6924551869614127	CMakeFiles/stack_with_array.dir/main.c.obj	fc37c9701c468850
+143	338	6924551871514150	stack_with_array.exe	3b71feb0b7eb2248

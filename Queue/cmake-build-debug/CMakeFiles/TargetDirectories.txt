@@ -1,0 +1,3 @@
+D:/C programs/Queue/cmake-build-debug/CMakeFiles/Queue.dir
+D:/C programs/Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C programs/Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

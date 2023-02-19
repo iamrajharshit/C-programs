@@ -1,0 +1,5 @@
+# ninja log v5
+1	218	6938578242698849	CMakeFiles/levelorder_queue.dir/main.c.obj	fa5f13992dd2cdf1
+220	581	6938578246292259	levelorder_queue.exe	de3dfa22b91234b5
+2	1477	6985272508614745	CMakeFiles/levelorder_queue.dir/main.c.obj	fa5f13992dd2cdf1
+1478	2534	6985272519392130	levelorder_queue.exe	de3dfa22b91234b5
