@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 D:/C programs/stack with array/cmake-build-debug/CMakeFiles/stack_with_array.dir
 D:/C programs/stack with array/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C programs/stack with array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+D:/C programs/stack with array/cmake-build-debug/CMakeFiles/stack_with_array.dir
+D:/C programs/stack with array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C programs/stack with array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> aabd1d253066485e08ef72218ec26f9c4b90cf3a

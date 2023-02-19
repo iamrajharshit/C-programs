@@ -33,7 +33,11 @@ int main(){
         switch(ch)
         {
             case 1:
+<<<<<<< HEAD
                 printf("\nEnter the item to be pushed:");
+=======
+                printf("\nEnter the item to be pushed: ");
+>>>>>>> aabd1d253066485e08ef72218ec26f9c4b90cf3a
                 scanf("%d",&item);
                 push(item);
                 printf("%d item pushed\n",item);
@@ -56,4 +60,8 @@ int main(){
         }
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aabd1d253066485e08ef72218ec26f9c4b90cf3a
